@@ -1,0 +1,6 @@
+/examples
+*-starter-code/
+*.md
+.gitignore
+*.iml
+*.xml
